@@ -5,6 +5,7 @@ const NotFound = () => {
         <div>
             <h1>404 Error please try again</h1>
         </div>
+        //--------
     );
 };
 

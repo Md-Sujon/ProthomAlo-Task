@@ -19,6 +19,7 @@ const NewsDetails = () => {
             </div>
             
         </div>
+        //--------
     );
 };
 

@@ -8,6 +8,8 @@ const Navbar = () => {
             <a href="/Home" ><img src={logo} alt="" /></a>
           
         </div>
+        //--------
+
     );
 };
 

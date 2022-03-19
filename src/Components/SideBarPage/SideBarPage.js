@@ -38,6 +38,7 @@ const HomeMainPage = () => {
            )}
         </div>
       </div>
+      //--------
     );
 };
 

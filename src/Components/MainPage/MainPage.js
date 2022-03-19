@@ -22,6 +22,7 @@ shuffle(data)
       user={user}/>
       ))}
     </div>
+    //--------
   );
 };
 
